@@ -5,11 +5,13 @@
 
 .card-body {
     font-size: 20px;
+    color: rgb(36, 36, 36);
 }
 
 h2 {
+    margin-top: 15px;
     font-size: 30px;
-    color: rgb(32, 32, 32);
+    color: rgb(36, 36, 36);
 }
 
 .img-fluid {
