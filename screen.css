@@ -7,13 +7,9 @@
     font-size: 20px;
 }
 
-body {
-    background-color: navy;
-}
-
 h2 {
     font-size: 30px;
-    color: white;
+    color: rgb(32, 32, 32);
 }
 
 .img-fluid {
