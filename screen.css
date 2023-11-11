@@ -29,3 +29,7 @@ h4 {
 .img-fluid{
     height: 60%;
 }
+
+.card text-bg-dark {
+    height: 60%;
+}
