@@ -8,9 +8,12 @@
 }
 
 h2 {
-    margin-top: 15px;
-    font-size: 30px;
+    margin-top: 20px;
+    font-size: 40px;
     color: rgb(36, 36, 36);
+}
+.card-text {
+    margin-top: 10px;
 }
 
 h4 {
