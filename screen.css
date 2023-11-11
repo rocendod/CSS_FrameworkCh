@@ -2,3 +2,6 @@
 .navbar-brand{
     font-size: 25px;
   }
+.body {
+    background-color: rgba(26, 26, 44, 0.867);
+}
