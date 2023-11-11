@@ -14,8 +14,6 @@ h2 {
 }
 .card-text {
     margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
 }
 
 h4 {
@@ -28,4 +26,8 @@ h4 {
 
 .img-fluid {
     height: 60%;
+}
+
+.card text-center {
+    margin-top: 35px;
 }
