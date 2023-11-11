@@ -8,5 +8,14 @@
 }
 
 body {
-    background-color: rgba(26, 26, 44, 0.867);
+    background-color: navy;
+}
+
+h2 {
+    font-size: 30px;
+    color: white;
+}
+
+.img-fluid {
+    height: 75%;
 }
