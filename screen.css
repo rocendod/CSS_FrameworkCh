@@ -21,3 +21,11 @@ h2 {
 h4 {
     font-size: 35px;
 }
+
+.card-img-top {
+    height: 60%;
+}
+
+.img-fluid{
+    height: 80%;
+}
