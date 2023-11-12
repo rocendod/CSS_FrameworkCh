@@ -40,4 +40,5 @@ h4 {
 .forum {
     display: flex;
     justify-content: right;
+    margin-right: 30px;
 }
