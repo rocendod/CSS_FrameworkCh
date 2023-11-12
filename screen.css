@@ -32,3 +32,7 @@ h4 {
     height: 70%;
 }
 
+.card text-bg-dark mb-5 {
+    display: flex;
+    justify-content: center;
+}
