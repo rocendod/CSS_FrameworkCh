@@ -38,6 +38,6 @@ h4 {
 }
 
 form {
-    display: flex;
+    display: table-column;
     justify-content: right;
 }
