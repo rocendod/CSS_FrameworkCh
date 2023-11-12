@@ -1,10 +1,11 @@
 /* Add screen styles below */
-.navbar-brand{
+.navbar-brand {
     font-size: 25px;
-  }
+}
 
 .card-body {
-    font-size: 20px;
+  font-size: 20px;
+  margin-bottom: 10px;
 }
 
 h2 {
@@ -12,6 +13,7 @@ h2 {
     font-size: 40px;
     color: rgb(36, 36, 36);
 }
+
 .card-text {
     margin-top: 10px;
 }
@@ -25,9 +27,5 @@ h4 {
 }
 
 .img-fluid {
-    height: 75%;
-}
-
-.card text-center {
-    margin-top: 35px;
+    height: 70%;
 }
