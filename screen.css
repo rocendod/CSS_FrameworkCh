@@ -38,6 +38,5 @@ h4 {
 }
 
 form {
-    display: flexbox;
     justify-content: right;
 }
